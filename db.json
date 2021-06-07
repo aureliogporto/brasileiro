@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Cliente": "Ricardo",
+    "Pais": "Angola",
+    "Telefone": 925341780
+  },
+  {
+    "Id": 2,
+    "Cliente": "Jo\u00E3o",
+    "Pais": "S\u00E3o Tom\u00E9",
+    "Telefone": 999999992
+  },
+  {
+    "Id": 3,
+    "Cliente": "Marcos",
+    "Pais": "Brasil",
+    "Telefone": 87465563
+  },
+  {
+    "Id": 4,
+    "Cliente": "Maria",
+    "Pais": "Alemanha",
+    "Telefone": 5730138470
+  },
+  {
+    "Id": 5,
+    "Cliente": "Mohamed",
+    "Pais": "Dubai",
+    "Telefone": 238746565
+  }
+]
